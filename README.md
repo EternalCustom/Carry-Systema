@@ -4,8 +4,11 @@ Carry System
 * Abre un menú interactivo con el comando /carry.
 
 * Opciones de carga disponibles:
+
   Carry normal
+
   Piggyback
+
   Caballito
 
 * Liberación:
