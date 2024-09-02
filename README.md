@@ -1,2 +1,2 @@
 # Carry-Systema
-🔹 Carry System | Un sistema fácil de usar que abre un menú con /carry, permitiéndote elegir entre diferentes estilos de carga: carry normal, piggyback, o caballito. ¡Haz el roleplay más dinámico y divertido con estas opciones de animación!
+🔹 Carry System | Este sistema permite a los jugadores interactuar dinámicamente mediante un menú accesible con el comando /carry. Desde el menú, puedes seleccionar entre tres modos de carga: carry normal, piggyback, y caballito. Para soltar a la persona que estás cargando, simplemente presiona E. Además, la persona que está siendo cargada también puede presionar E para liberarse. Este sistema es fácil de integrar y personalizar, mejorando la experiencia de roleplay en tu servidor.
