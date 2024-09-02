@@ -1,2 +1,14 @@
 # Carry-Systema
-🔹 Carry System | Este sistema permite a los jugadores interactuar dinámicamente mediante un menú accesible con el comando /carry. Desde el menú, puedes seleccionar entre tres modos de carga: carry normal, piggyback, y caballito. Para soltar a la persona que estás cargando, simplemente presiona E. Además, la persona que está siendo cargada también puede presionar E para liberarse. Este sistema es fácil de integrar y personalizar, mejorando la experiencia de roleplay en tu servidor.
+Carry System
+
+Abre un menú interactivo con el comando /carry.
+Opciones de carga disponibles:
+Carry normal
+Piggyback
+Caballito
+Liberación:
+Presiona E para soltar a la persona que estás cargando.
+La persona cargada también puede presionar E para liberarse.
+Compatibilidad:
+Este script es compatible con cualquier sistema basado en qb-menu.
+Solo requiere adaptaciones mínimas según las necesidades de tu servidor.
